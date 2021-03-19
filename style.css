@@ -60,6 +60,7 @@ html {
     background-color:white;
     color: black;
     border-radius: 5%;
+    text-decoration: none;
   }
 
   .navbar a:hover {
@@ -80,10 +81,12 @@ html {
       height: 80%;
       padding: 30px 30px 30px 60px;
       border-radius: 5%;
+      object-fit: contain;
   }
   
   .sectionOne p {
-    padding-top: 40px;  
+    padding-top: 40px;
+    padding-right: 60px; 
   }
 
   article h2{
@@ -99,6 +102,8 @@ margin-bottom: 25px;
    text-align: center;
    border-radius: 5%;
    margin-bottom: ;
+   color: black;
+   text-decoration: none;
   }
 
   .sectionTwo {
