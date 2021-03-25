@@ -168,9 +168,6 @@ margin-bottom: 25px;
     padding: 10px;
   }
 
-  
-
-
   .footer {
   background-color: #379683;
   height: 150px;
@@ -213,6 +210,11 @@ button:hover {
     flex-wrap: wrap;
     margin: 5px;
   }
+
+  .sectionOne h2 {
+    text-align: center;
+    margin-top: 3%;
+  }
 }
 
 @media screen and (max-width: 500px) {
@@ -237,6 +239,9 @@ button:hover {
   }
 
   #myProjects {
+    text-align: center;
+  }
+  .sectionOne h2 {
     text-align: center;
   }
 }
