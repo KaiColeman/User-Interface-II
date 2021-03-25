@@ -206,7 +206,6 @@ button:hover {
 
 @media screen and (max-width: 800px) {
   body { 
-    background-color: aqua;
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -217,10 +216,7 @@ button:hover {
 }
 
 @media screen and (max-width: 500px) {
-  body { 
-    background-color: black;
-  }
-
+  
   .header {
     height: 250px;
   }
